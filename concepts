@@ -1,0 +1,4 @@
+fluxo de inicialização: main.ts -> AppModule -> AppComponent -> ...
+O que é um componente?
+    Trecho de código que representa um componente visual
+    HTML+CSS+TS
