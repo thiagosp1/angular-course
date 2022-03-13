@@ -1,24 +1,9 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC preta",
-      "price": 5.89
-    },
-    {
       "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000.89
-    },
-    {
-      "name": "Geladeira com freezer",
-      "price": "1913.99",
-      "id": 3
-    },
-    {
-      "name": "Geladeira",
-      "price": "1913.99",
-      "id": 4
+      "name": "Notebook Mac Pro 2",
+      "price": "12000.88"
     },
     {
       "name": "Produto de teste",
@@ -51,8 +36,8 @@
       "id": 10
     },
     {
-      "name": "eeeee",
-      "price": "022222",
+      "name": "Meu novo produto",
+      "price": "50.52",
       "id": 11
     }
   ]
